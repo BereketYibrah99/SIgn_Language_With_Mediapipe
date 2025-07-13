@@ -15,7 +15,7 @@ This project implements an English alphabet sign language recognizer using hand 
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tools Used
 
 - Python
 - [MediaPipe](https://google.github.io/mediapipe/)
