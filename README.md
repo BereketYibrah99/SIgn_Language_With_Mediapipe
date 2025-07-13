@@ -10,7 +10,7 @@ This project implements an English alphabet sign language recognizer using hand 
 - Keypoint preprocessing:
   - Subtract all coordinates from the largest value
   - Normalize for consistent scaling
-- Uses **scikit-learn** models like KNN, SVM, or Random Forest for classification
+- Uses **scikit-learn** models Random Forest for classification
 - Recognizes static ASL alphabet signs (A–Y; excluding J and Z)
 
 ---
